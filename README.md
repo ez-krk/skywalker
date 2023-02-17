@@ -4,7 +4,9 @@
 
 ## Introduction
 
-I'm a student in cybersecurity, this project let users test themselves for private keys (ethereum and solana format) readable on your computer.
+I'm a student in cybersecurity, this project aims to let users test themselves for private keys (ethereum and solana format) readable on your computer before "bad guys" find them.
+
+It's best practice to encrypt your sensitive data, with strong and reliable encryption (see [encfs](https://linux.die.net/man/1/encfs) and [gpg](https://linux.die.net/man/1/gpg))
 
 ## Prerequesites
 
